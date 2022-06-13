@@ -1,0 +1,4 @@
+/.vs
+PegasUP/creds.py
+*.data
+*.session
